@@ -24,7 +24,7 @@ CREATE TABLE cc_detail (
 
 -- 2. Create customer detail table
 
-CREATE TABLE cust_det (
+CREATE TABLE customer (
     Client_Num INT,
     Customer_Age INT,
     Gender VARCHAR(5),
